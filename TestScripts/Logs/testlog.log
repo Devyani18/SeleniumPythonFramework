@@ -1,0 +1,26 @@
+2021-03-19 09:29:12,176 : DEBUG : test_HomeForm : Entering first name : Suraj
+2021-03-19 09:29:12,241 : DEBUG : test_HomeForm : Entering email address : suraj@rediffmal.com
+2021-03-19 09:29:12,360 : DEBUG : test_HomeForm : Selecting gender : Male
+2021-03-19 09:29:12,400 : DEBUG : test_HomeForm : Submitting the form
+2021-03-19 09:29:12,480 : DEBUG : test_HomeForm : ×
+Success! The Form has been submitted successfully!.
+2021-03-19 09:29:12,645 : DEBUG : test_HomeForm : Entering first name : Devyani
+2021-03-19 09:29:12,645 : DEBUG : test_HomeForm : Entering first name : Devyani
+2021-03-19 09:29:12,709 : DEBUG : test_HomeForm : Entering email address : devyaniparate1996@gmail.com
+2021-03-19 09:29:12,709 : DEBUG : test_HomeForm : Entering email address : devyaniparate1996@gmail.com
+2021-03-19 09:29:12,832 : DEBUG : test_HomeForm : Selecting gender : Female
+2021-03-19 09:29:12,832 : DEBUG : test_HomeForm : Selecting gender : Female
+2021-03-19 09:29:12,895 : DEBUG : test_HomeForm : Submitting the form
+2021-03-19 09:29:12,895 : DEBUG : test_HomeForm : Submitting the form
+2021-03-19 09:29:12,958 : DEBUG : test_HomeForm : ×
+Success! The Form has been submitted successfully!.
+2021-03-19 09:29:12,958 : DEBUG : test_HomeForm : ×
+Success! The Form has been submitted successfully!.
+2021-03-28 11:45:02,243 : INFO : test_shope2e : Going to Shop page..
+2021-03-28 11:45:03,637 : INFO : test_shope2e : Getting card titles..
+2021-03-28 11:45:03,654 : INFO : test_shope2e : Adding Blackberry to cart..
+2021-03-28 11:45:03,858 : INFO : test_shope2e : Checking Out..
+2021-03-28 11:45:09,328 : INFO : test_shope2e : Selecting Country - India
+2021-03-28 11:45:09,407 : INFO : test_shope2e : Purchase!
+2021-03-28 11:45:09,480 : INFO : test_shope2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

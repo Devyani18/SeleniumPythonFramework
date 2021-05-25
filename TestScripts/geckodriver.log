@@ -1,0 +1,31 @@
+1615629221334	geckodriver	INFO	Listening on 127.0.0.1:57914
+1615629224474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\91962\\AppData\\Local\\Temp\\rust_mozprofilePoIJlk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615629228968	Marionette	INFO	Listening on port 57922
+1615629229320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615629241132	Marionette	INFO	Stopped listening on port 57922
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616000767589	geckodriver	INFO	Listening on 127.0.0.1:56940
+1616000770685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\91962\\AppData\\Local\\Temp\\rust_mozprofileKdINbo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616000773767	Marionette	INFO	Listening on port 56949
+1616000773861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616000780236	Marionette	INFO	Stopped listening on port 56949
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616000780842	geckodriver	INFO	Listening on 127.0.0.1:57031
+1616000783921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\91962\\AppData\\Local\\Temp\\rust_mozprofilePXgonr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616000786284	Marionette	INFO	Listening on port 57043
+1616000786590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616000795432	Marionette	INFO	Stopped listening on port 57043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
